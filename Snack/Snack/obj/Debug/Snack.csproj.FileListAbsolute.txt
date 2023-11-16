@@ -1,0 +1,10 @@
+C:\Users\Jolga\Documents\C#\Snack\Snack\bin\Debug\Snack.exe.config
+C:\Users\Jolga\Documents\C#\Snack\Snack\bin\Debug\Snack.exe
+C:\Users\Jolga\Documents\C#\Snack\Snack\bin\Debug\Snack.pdb
+C:\Users\Jolga\Documents\C#\Snack\Snack\obj\Debug\Snack.csproj.AssemblyReference.cache
+C:\Users\Jolga\Documents\C#\Snack\Snack\obj\Debug\Snack.Form1.resources
+C:\Users\Jolga\Documents\C#\Snack\Snack\obj\Debug\Snack.Properties.Resources.resources
+C:\Users\Jolga\Documents\C#\Snack\Snack\obj\Debug\Snack.csproj.GenerateResource.cache
+C:\Users\Jolga\Documents\C#\Snack\Snack\obj\Debug\Snack.csproj.CoreCompileInputs.cache
+C:\Users\Jolga\Documents\C#\Snack\Snack\obj\Debug\Snack.exe
+C:\Users\Jolga\Documents\C#\Snack\Snack\obj\Debug\Snack.pdb
